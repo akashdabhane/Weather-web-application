@@ -3,7 +3,7 @@ console.log("This is weather app");
 const options = {
     method: 'GET',
     headers: {
-        'X-RapidAPI-Key': '',
+        'X-RapidAPI-Key': '90d3170c2cmsh79030fb1639b2a2p1625d8jsn412007095b7b',
         'X-RapidAPI-Host': 'weather-by-api-ninjas.p.rapidapi.com'
     }
 };
